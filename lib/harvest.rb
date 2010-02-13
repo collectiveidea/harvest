@@ -12,7 +12,6 @@ module Harvest
 end
 
 # Gems
-require "rubygems"
 require "activeresource"
 require "active_resource_throttle"
 
